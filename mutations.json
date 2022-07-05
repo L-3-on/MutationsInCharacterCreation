@@ -1,0 +1,2258 @@
+[
+  {
+    "type": "mutation",
+    "id": "BIOLUM0",
+    "copy-from": "BIOLUM0",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "BIOLUM1",
+    "copy-from": "BIOLUM1",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "BIOLUM2",
+    "copy-from": "BIOLUM2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "BIOLUM3",
+    "copy-from": "BIOLUM3",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "JEKYLL",
+    "copy-from": "JEKYLL",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "FEYHEARING",
+    "copy-from": "FEYHEARING",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "OUTDOORSMAN",
+    "copy-from": "OUTDOORSMAN",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "GOODCARDIO2",
+    "copy-from": "GOODCARDIO2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "TUNNEL_FIGHTER",
+    "copy-from": "TUNNEL_FIGHTER",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "NIGHT_RAIDER",
+    "copy-from": "NIGHT_RAIDER",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "EASYSLEEPER2",
+    "copy-from": "EASYSLEEPER2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "DIRTSLEEPER",
+    "copy-from": "DIRTSLEEPER",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "WATERSLEEPER",
+    "copy-from": "WATERSLEEPER",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "BOVINE_BULK",
+    "copy-from": "BOVINE_BULK",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "BOVINE_BULK2",
+    "copy-from": "BOVINE_BULK2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "TOUGH2",
+    "copy-from": "TOUGH2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "TOUGH3",
+    "copy-from": "TOUGH3",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "THICKSKIN",
+    "copy-from": "THICKSKIN",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "VOMITSTOMACH",
+    "copy-from": "VOMITSTOMACH",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "LOVES_BOOKS",
+    "copy-from": "LOVES_BOOKS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "ANIMALEMPATH2",
+    "copy-from": "ANIMALEMPATH2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "ADRENALINE2",
+    "copy-from": "ADRENALINE2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "STIMBOOST",
+    "copy-from": "STIMBOOST",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "EAGLEEYED",
+    "copy-from": "EAGLEEYED",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "MARTIAL_FENCING",
+    "copy-from": "MARTIAL_FENCING",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "LIAR",
+    "copy-from": "LIAR",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "STRONGKNEES",
+    "copy-from": "STRONGKNEES",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PROF_ASSASSIN_CONVICT",
+    "copy-from": "PROF_ASSASSIN_CONVICT",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "DISORGANIZED",
+    "copy-from": "DISORGANIZED",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "THINSKIN",
+    "copy-from": "THINSKIN",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "HATES_BOOKS",
+    "copy-from": "HATES_BOOKS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PROJUNK2",
+    "copy-from": "PROJUNK2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "ANIMALDISCORD2",
+    "copy-from": "ANIMALDISCORD2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "SKIN_ROUGH",
+    "copy-from": "SKIN_ROUGH",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "NIGHTVISION2",
+    "copy-from": "NIGHTVISION2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "NIGHTVISION3",
+    "copy-from": "NIGHTVISION3",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "CEPH_EYES",
+    "copy-from": "CEPH_EYES",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "MANSBESTFRIEND",
+    "copy-from": "MANSBESTFRIEND",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "CEPH_VISION",
+    "copy-from": "CEPH_VISION",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "ELFAEYES",
+    "copy-from": "ELFAEYES",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "ELFA_NV",
+    "copy-from": "ELFA_NV",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "ELFA_FNV",
+    "copy-from": "ELFA_FNV",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "FEL_EYE",
+    "copy-from": "FEL_EYE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "FEL_NV",
+    "copy-from": "FEL_NV",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "URSINE_EYE",
+    "copy-from": "URSINE_EYE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "BIRD_EYE",
+    "copy-from": "BIRD_EYE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "INFRARED",
+    "copy-from": "INFRARED",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "LIZ_EYE",
+    "copy-from": "LIZ_EYE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "LIZ_IR",
+    "copy-from": "LIZ_IR",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "FASTHEALER2",
+    "copy-from": "FASTHEALER2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "REGEN",
+    "copy-from": "REGEN",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "REGEN_LIZ",
+    "copy-from": "REGEN_LIZ",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "WAKEFUL2",
+    "copy-from": "WAKEFUL2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "WAKEFUL3",
+    "copy-from": "WAKEFUL3",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "FANGS",
+    "copy-from": "FANGS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "INCISORS",
+    "copy-from": "INCISORS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "MEMBRANE",
+    "copy-from": "MEMBRANE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "GILLS",
+    "copy-from": "GILLS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "GILLS_CEPH",
+    "copy-from": "GILLS_CEPH",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "SCALES",
+    "copy-from": "SCALES",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "THICK_SCALES",
+    "copy-from": "THICK_SCALES",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "SLEEK_SCALES",
+    "copy-from": "SLEEK_SCALES",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "LIGHT_BONES",
+    "copy-from": "LIGHT_BONES",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "FEATHERS",
+    "copy-from": "FEATHERS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "DOWN",
+    "copy-from": "DOWN",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "LIGHTFUR",
+    "copy-from": "LIGHTFUR",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "FUR",
+    "copy-from": "FUR",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "URSINE_FUR",
+    "copy-from": "URSINE_FUR",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "LUPINE_FUR",
+    "copy-from": "LUPINE_FUR",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "FELINE_FUR",
+    "copy-from": "FELINE_FUR",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "LYNX_FUR",
+    "copy-from": "LYNX_FUR",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PATCHSKIN1",
+    "copy-from": "PATCHSKIN1",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PATCHSKIN2",
+    "copy-from": "PATCHSKIN2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PATCHSKIN3",
+    "copy-from": "PATCHSKIN3",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "CHITIN",
+    "copy-from": "CHITIN",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "CHITIN2",
+    "copy-from": "CHITIN2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "CHITIN3",
+    "copy-from": "CHITIN3",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "CHITIN_FUR",
+    "copy-from": "CHITIN_FUR",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "CHITIN_FUR2",
+    "copy-from": "CHITIN_FUR2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "CHITIN_FUR3",
+    "copy-from": "CHITIN_FUR3",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "CF_HAIR",
+    "copy-from": "CF_HAIR",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "SPINES",
+    "copy-from": "SPINES",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "QUILLS",
+    "copy-from": "QUILLS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "BARBS",
+    "copy-from": "BARBS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PLANTSKIN",
+    "copy-from": "PLANTSKIN",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "BARK",
+    "copy-from": "BARK",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "THORNS",
+    "copy-from": "THORNS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "LEAVES",
+    "copy-from": "LEAVES",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "LEAVES2",
+    "copy-from": "LEAVES2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "LEAVES3",
+    "copy-from": "LEAVES3",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "TRANSPIRATION",
+    "copy-from": "TRANSPIRATION",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "FLOWERS",
+    "copy-from": "FLOWERS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "ROSEBUDS",
+    "copy-from": "ROSEBUDS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "NAILS",
+    "copy-from": "NAILS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "CLAWS",
+    "copy-from": "CLAWS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "CLAWS_RAT",
+    "copy-from": "CLAWS_RAT",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "CLAWS_ST",
+    "copy-from": "CLAWS_ST",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "CLAWS_RETRACT",
+    "copy-from": "CLAWS_RETRACT",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "CLAWS_TENTACLE",
+    "copy-from": "CLAWS_TENTACLE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "INK_GLANDS",
+    "copy-from": "INK_GLANDS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "SLIME_SPRAY",
+    "copy-from": "SLIME_SPRAY",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "INSECT_RESERVOIR",
+    "copy-from": "INSECT_RESERVOIR",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "BOMBADIER_BLAST",
+    "copy-from": "BOMBADIER_BLAST",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "TALONS",
+    "copy-from": "TALONS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "RADIOGENIC",
+    "copy-from": "RADIOGENIC",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PHEROMONE_INSECT",
+    "copy-from": "PHEROMONE_INSECT",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PHEROMONE_AMPHIBIAN",
+    "copy-from": "PHEROMONE_AMPHIBIAN",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PHEROMONE_MAMMAL",
+    "copy-from": "PHEROMONE_MAMMAL",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "DISIMMUNE",
+    "copy-from": "DISIMMUNE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "INFIMMUNE",
+    "copy-from": "INFIMMUNE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PARAIMMUNE",
+    "copy-from": "PARAIMMUNE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "POISONOUS",
+    "copy-from": "POISONOUS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "POISONOUS2",
+    "copy-from": "POISONOUS2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "SLIME_HANDS",
+    "copy-from": "SLIME_HANDS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "BENDY1",
+    "copy-from": "BENDY1",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "BENDY2",
+    "copy-from": "BENDY2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "BENDY3",
+    "copy-from": "BENDY3",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "GASTROPOD_EXTREMITY1",
+    "copy-from": "GASTROPOD_EXTREMITY1",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "GASTROPOD_EXTREMITY2",
+    "copy-from": "GASTROPOD_EXTREMITY2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "GASTROPOD_EXTREMITY3",
+    "copy-from": "GASTROPOD_EXTREMITY3",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "COMPOUND_EYES",
+    "copy-from": "COMPOUND_EYES",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PADDED_FEET",
+    "copy-from": "PADDED_FEET",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "STRONG_LEGS",
+    "copy-from": "STRONG_LEGS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "FELINE_LEAP",
+    "copy-from": "FELINE_LEAP",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "LEAPING_LEGS",
+    "copy-from": "LEAPING_LEGS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "LEAPING_LEGS2",
+    "copy-from": "LEAPING_LEGS2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "RAP_TALONS",
+    "copy-from": "RAP_TALONS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "HOOVES",
+    "copy-from": "HOOVES",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "ALCMET",
+    "copy-from": "ALCMET",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PAINRESIST_TROGLO",
+    "copy-from": "PAINRESIST_TROGLO",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "STOCKY_TROGLO",
+    "copy-from": "STOCKY_TROGLO",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "SAPROVORE",
+    "copy-from": "SAPROVORE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "SAPROPHAGE",
+    "copy-from": "SAPROPHAGE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "GIZZARD",
+    "copy-from": "GIZZARD",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "RUMINANT",
+    "copy-from": "RUMINANT",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "GRAZER",
+    "copy-from": "GRAZER",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "EATPOISON",
+    "copy-from": "EATPOISON",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "EATDEAD",
+    "copy-from": "EATDEAD",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "BURROW",
+    "copy-from": "BURROW",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "BURROWLARGE",
+    "copy-from": "BURROWLARGE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "SABER_TEETH",
+    "copy-from": "SABER_TEETH",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "EATHEALTH",
+    "copy-from": "EATHEALTH",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "HORNS",
+    "copy-from": "HORNS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "HORNS_CURLED",
+    "copy-from": "HORNS_CURLED",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "HORNS_POINTED",
+    "copy-from": "HORNS_POINTED",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "ANTLERS",
+    "copy-from": "ANTLERS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "ANTENNAE",
+    "copy-from": "ANTENNAE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "FLEET2",
+    "copy-from": "FLEET2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "TAIL_STUB",
+    "copy-from": "TAIL_STUB",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "TAIL_FIN",
+    "copy-from": "TAIL_FIN",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "TAIL_LONG",
+    "copy-from": "TAIL_LONG",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "TAIL_CATTLE",
+    "copy-from": "TAIL_CATTLE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "TAIL_RAT",
+    "copy-from": "TAIL_RAT",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "TAIL_THICK",
+    "copy-from": "TAIL_THICK",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "TAIL_RAPTOR",
+    "copy-from": "TAIL_RAPTOR",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "TAIL_FLUFFY",
+    "copy-from": "TAIL_FLUFFY",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "TAIL_STING",
+    "copy-from": "TAIL_STING",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "TAIL_CLUB",
+    "copy-from": "TAIL_CLUB",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "HIBERNATE",
+    "copy-from": "HIBERNATE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "MUT_TOUGH",
+    "copy-from": "MUT_TOUGH",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "MUT_TOUGH2",
+    "copy-from": "MUT_TOUGH2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "MUT_TOUGH3",
+    "copy-from": "MUT_TOUGH3",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PAINREC1",
+    "copy-from": "PAINREC1",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PAINREC2",
+    "copy-from": "PAINREC2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PAINREC3",
+    "copy-from": "PAINREC3",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "MASOCHIST_MED",
+    "copy-from": "MASOCHIST_MED",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "CENOBITE",
+    "copy-from": "CENOBITE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "NOPAIN",
+    "copy-from": "NOPAIN",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "MORE_PAIN2",
+    "copy-from": "MORE_PAIN2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "MORE_PAIN3",
+    "copy-from": "MORE_PAIN3",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PRED1",
+    "copy-from": "PRED1",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PRED2",
+    "copy-from": "PRED2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PRED3",
+    "copy-from": "PRED3",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PRED4",
+    "copy-from": "PRED4",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "SAPIOVORE",
+    "copy-from": "SAPIOVORE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PACK_HUNTER",
+    "copy-from": "PACK_HUNTER",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "WINGS_BIRD",
+    "copy-from": "WINGS_BIRD",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "WINGS_INSECT",
+    "copy-from": "WINGS_INSECT",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "MOUTH_TENTACLES",
+    "copy-from": "MOUTH_TENTACLES",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "MANDIBLES",
+    "copy-from": "MANDIBLES",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "FANGS_SPIDER",
+    "copy-from": "FANGS_SPIDER",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "GASTROPOD_FOOT",
+    "copy-from": "GASTROPOD_FOOT",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "GASTROPOD_BALANCE",
+    "copy-from": "GASTROPOD_BALANCE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "MUCUS_SECRETION",
+    "copy-from": "MUCUS_SECRETION",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "MUCUS_SECRETION2",
+    "copy-from": "MUCUS_SECRETION2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "SNAIL_TRAIL",
+    "copy-from": "SNAIL_TRAIL",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "CANINE_EARS",
+    "copy-from": "CANINE_EARS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "LUPINE_EARS",
+    "copy-from": "LUPINE_EARS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "FELINE_EARS",
+    "copy-from": "FELINE_EARS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "URSINE_EARS",
+    "copy-from": "URSINE_EARS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "ELFA_EARS",
+    "copy-from": "ELFA_EARS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "MOUSE_EARS",
+    "copy-from": "MOUSE_EARS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "WEB_WALKER",
+    "copy-from": "WEB_WALKER",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "WEB_SPINNER",
+    "copy-from": "WEB_SPINNER",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "WEB_WEAVER",
+    "copy-from": "WEB_WEAVER",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "WEB_RAPPEL",
+    "copy-from": "WEB_RAPPEL",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "WEB_ROPE",
+    "copy-from": "WEB_ROPE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "WHISKERS",
+    "copy-from": "WHISKERS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "WHISKERS_RAT",
+    "copy-from": "WHISKERS_RAT",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "FAT",
+    "copy-from": "FAT",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "LARGE",
+    "copy-from": "LARGE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "LARGE_OK",
+    "copy-from": "LARGE_OK",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "HUGE",
+    "copy-from": "HUGE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "HUGE_OK",
+    "copy-from": "HUGE_OK",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "STR_UP",
+    "copy-from": "STR_UP",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "STR_UP_2",
+    "copy-from": "STR_UP_2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "STR_UP_3",
+    "copy-from": "STR_UP_3",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "STR_UP_4",
+    "copy-from": "STR_UP_4",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "STR_ALPHA",
+    "copy-from": "STR_ALPHA",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "DEX_UP",
+    "copy-from": "DEX_UP",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "DEX_UP_2",
+    "copy-from": "DEX_UP_2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "DEX_UP_3",
+    "copy-from": "DEX_UP_3",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "DEX_UP_4",
+    "copy-from": "DEX_UP_4",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "DEX_ALPHA",
+    "copy-from": "DEX_ALPHA",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "INT_UP",
+    "copy-from": "INT_UP",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "INT_UP_2",
+    "copy-from": "INT_UP_2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "INT_UP_3",
+    "copy-from": "INT_UP_3",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "INT_UP_4",
+    "copy-from": "INT_UP_4",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "INT_ALPHA",
+    "copy-from": "INT_ALPHA",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "INT_SLIME",
+    "copy-from": "INT_SLIME",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PER_UP",
+    "copy-from": "PER_UP",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PER_UP_2",
+    "copy-from": "PER_UP_2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PER_UP_3",
+    "copy-from": "PER_UP_3",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PER_UP_4",
+    "copy-from": "PER_UP_4",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PER_ALPHA",
+    "copy-from": "PER_ALPHA",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PER_SLIME",
+    "copy-from": "PER_SLIME",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PER_SLIME_OK",
+    "copy-from": "PER_SLIME_OK",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "SLIMEMIND",
+    "copy-from": "SLIMEMIND",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "SMALL",
+    "copy-from": "SMALL",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "SMALL2",
+    "copy-from": "SMALL2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "SMALL_OK",
+    "copy-from": "SMALL_OK",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "CRAFTY",
+    "copy-from": "CRAFTY",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "MUT_JUNKIE",
+    "copy-from": "MUT_JUNKIE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "HEADBUMPS",
+    "copy-from": "HEADBUMPS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "SLIT_NOSTRILS",
+    "copy-from": "SLIT_NOSTRILS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "FORKED_TONGUE",
+    "copy-from": "FORKED_TONGUE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "LONG_TONGUE",
+    "copy-from": "LONG_TONGUE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "LONG_TONGUE2",
+    "copy-from": "LONG_TONGUE2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "EYEBULGE",
+    "copy-from": "EYEBULGE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "EYESTALKS1",
+    "copy-from": "EYESTALKS1",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "EYESTALKS2",
+    "copy-from": "EYESTALKS2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "MOUTH_FLAPS",
+    "copy-from": "MOUTH_FLAPS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "WINGS_STUB",
+    "copy-from": "WINGS_STUB",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "WINGS_BAT",
+    "copy-from": "WINGS_BAT",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "WINGS_BUTTERFLY",
+    "copy-from": "WINGS_BUTTERFLY",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PALE",
+    "copy-from": "PALE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "SPOTS",
+    "copy-from": "SPOTS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "SMELLY2",
+    "copy-from": "SMELLY2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "DEFORMED",
+    "copy-from": "DEFORMED",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "DEFORMED2",
+    "copy-from": "DEFORMED2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "DEFORMED3",
+    "copy-from": "DEFORMED3",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "BEAUTIFUL",
+    "copy-from": "BEAUTIFUL",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "BEAUTIFUL2",
+    "copy-from": "BEAUTIFUL2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "BEAUTIFUL3",
+    "copy-from": "BEAUTIFUL3",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "SNOUT",
+    "copy-from": "SNOUT",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "MINOTAUR",
+    "copy-from": "MINOTAUR",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "MUZZLE",
+    "copy-from": "MUZZLE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "MUZZLE_BEAR",
+    "copy-from": "MUZZLE_BEAR",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "MUZZLE_RAT",
+    "copy-from": "MUZZLE_RAT",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "MUZZLE_LONG",
+    "copy-from": "MUZZLE_LONG",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "WIDE_MOUTH",
+    "copy-from": "WIDE_MOUTH",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PROBOSCIS",
+    "copy-from": "PROBOSCIS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "HOLLOW_BONES",
+    "copy-from": "HOLLOW_BONES",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "NAUSEA",
+    "copy-from": "NAUSEA",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "VOMITOUS",
+    "copy-from": "VOMITOUS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PERSISTENCE_HUNTER",
+    "copy-from": "PERSISTENCE_HUNTER",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PERSISTENCE_HUNTER2",
+    "copy-from": "PERSISTENCE_HUNTER2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "MET_RAT",
+    "copy-from": "MET_RAT",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "HUNGER2",
+    "copy-from": "HUNGER2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "HUNGER3",
+    "copy-from": "HUNGER3",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "THIRST2",
+    "copy-from": "THIRST2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "THIRST3",
+    "copy-from": "THIRST3",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "NO_THIRST",
+    "copy-from": "NO_THIRST",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "HEAVYSLEEPER2",
+    "copy-from": "HEAVYSLEEPER2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "SLEEPY2",
+    "copy-from": "SLEEPY2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "ROT1",
+    "copy-from": "ROT1",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "ROT2",
+    "copy-from": "ROT2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "ROT3",
+    "copy-from": "ROT3",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "SUNBURN",
+    "copy-from": "SUNBURN",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "SORES",
+    "copy-from": "SORES",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "TROGLO",
+    "copy-from": "TROGLO",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "TROGLO2",
+    "copy-from": "TROGLO2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "TROGLO3",
+    "copy-from": "TROGLO3",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "WEBBED",
+    "copy-from": "WEBBED",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PAWS",
+    "copy-from": "PAWS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PAWS_LARGE",
+    "copy-from": "PAWS_LARGE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "BEAK",
+    "copy-from": "BEAK",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "BEAK_PECK",
+    "copy-from": "BEAK_PECK",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "BEAK_HUM",
+    "copy-from": "BEAK_HUM",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "UNSTABLE",
+    "copy-from": "UNSTABLE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "CHAOTIC",
+    "copy-from": "CHAOTIC",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "RADIOACTIVE1",
+    "copy-from": "RADIOACTIVE1",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "RADIOACTIVE2",
+    "copy-from": "RADIOACTIVE2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "RADIOACTIVE3",
+    "copy-from": "RADIOACTIVE3",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "SLIMY",
+    "copy-from": "SLIMY",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "VISCOUS",
+    "copy-from": "VISCOUS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "AMORPHOUS",
+    "copy-from": "AMORPHOUS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "SLIMESPAWNER",
+    "copy-from": "SLIMESPAWNER",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "HERBIVORE",
+    "copy-from": "HERBIVORE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "CARNIVORE",
+    "copy-from": "CARNIVORE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PONDEROUS1",
+    "copy-from": "PONDEROUS1",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PONDEROUS2",
+    "copy-from": "PONDEROUS2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PONDEROUS3",
+    "copy-from": "PONDEROUS3",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "SUNLIGHT_DEPENDENT",
+    "copy-from": "SUNLIGHT_DEPENDENT",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "VINES1",
+    "copy-from": "VINES1",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "VINES2",
+    "copy-from": "VINES2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "VINES3",
+    "copy-from": "VINES3",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "HAIRROOTS",
+    "copy-from": "HAIRROOTS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "ROOTS1",
+    "copy-from": "ROOTS1",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "ROOTS2",
+    "copy-from": "ROOTS2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "ROOTS3",
+    "copy-from": "ROOTS3",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "CHLOROMORPH",
+    "copy-from": "CHLOROMORPH",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "TREE_COMMUNION",
+    "copy-from": "TREE_COMMUNION",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "COLDBLOOD",
+    "copy-from": "COLDBLOOD",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "COLDBLOOD2",
+    "copy-from": "COLDBLOOD2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "COLDBLOOD3",
+    "copy-from": "COLDBLOOD3",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "COLDBLOOD4",
+    "copy-from": "COLDBLOOD4",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "GROWL",
+    "copy-from": "GROWL",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "CROAK",
+    "copy-from": "CROAK",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "SNARL",
+    "copy-from": "SNARL",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "HISS",
+    "copy-from": "HISS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "SHOUT1",
+    "copy-from": "SHOUT1",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "SHOUT2",
+    "copy-from": "SHOUT2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "SHOUT3",
+    "copy-from": "SHOUT3",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "ARM_FEATHERS",
+    "copy-from": "ARM_FEATHERS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "INSECT_ARMS",
+    "copy-from": "INSECT_ARMS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "INSECT_ARMS_OK",
+    "copy-from": "INSECT_ARMS_OK",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "ARACHNID_ARMS",
+    "copy-from": "ARACHNID_ARMS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "ARACHNID_ARMS_OK",
+    "copy-from": "ARACHNID_ARMS_OK",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "ARM_TENTACLES",
+    "copy-from": "ARM_TENTACLES",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "ARM_TENTACLES_4",
+    "copy-from": "ARM_TENTACLES_4",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "ARM_TENTACLES_8",
+    "copy-from": "ARM_TENTACLES_8",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "SHELL",
+    "copy-from": "SHELL",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "SHELL2",
+    "copy-from": "SHELL2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "SHELL3",
+    "copy-from": "SHELL3",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "LEG_TENTACLES",
+    "copy-from": "LEG_TENTACLES",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "LEG_TENT_BRACE",
+    "copy-from": "LEG_TENT_BRACE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "ACIDPROOF",
+    "copy-from": "ACIDPROOF",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "ACIDBLOOD",
+    "copy-from": "ACIDBLOOD",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "AMPHIBIAN",
+    "copy-from": "AMPHIBIAN",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "SEESLEEP",
+    "copy-from": "SEESLEEP",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "WATERSLEEP",
+    "copy-from": "WATERSLEEP",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "TOXICFLESH",
+    "copy-from": "TOXICFLESH",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "FRESHWATEROSMOSIS",
+    "copy-from": "FRESHWATEROSMOSIS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "ELECTRORECEPTORS",
+    "copy-from": "ELECTRORECEPTORS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "SHARKTEETH",
+    "copy-from": "SHARKTEETH",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PROF_POLICE",
+    "copy-from": "PROF_POLICE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PROF_SWAT",
+    "copy-from": "PROF_SWAT",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PROF_CYBERCOP",
+    "copy-from": "PROF_CYBERCOP",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PROF_CHURL",
+    "copy-from": "PROF_CHURL",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PROF_PD_DET",
+    "copy-from": "PROF_PD_DET",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PROF_FED",
+    "copy-from": "PROF_FED",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PROF_HUB01_ANCILLIARY",
+    "copy-from": "PROF_HUB01_ANCILLIARY",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PROF_FOODP",
+    "copy-from": "PROF_FOODP",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PROF_MED",
+    "copy-from": "PROF_MED",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PROF_SKATER",
+    "copy-from": "PROF_SKATER",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PROF_MA_ORANGE",
+    "copy-from": "PROF_MA_ORANGE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PROF_MA_BLACK",
+    "copy-from": "PROF_MA_BLACK",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PROF_BOXER",
+    "copy-from": "PROF_BOXER",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PROF_AUTODOC",
+    "copy-from": "PROF_AUTODOC",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PROF_DICEMASTER",
+    "copy-from": "PROF_DICEMASTER",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "MUTE",
+    "copy-from": "MUTE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "NOMAD2",
+    "copy-from": "NOMAD2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "NOMAD3",
+    "copy-from": "NOMAD3",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "RABBIT_EARS",
+    "copy-from": "RABBIT_EARS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "TAIL_RABBIT",
+    "copy-from": "TAIL_RABBIT",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "RABBIT_FUR",
+    "copy-from": "RABBIT_FUR",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "RABBIT_FEET",
+    "copy-from": "RABBIT_FEET",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "RABBIT_NOSE",
+    "copy-from": "RABBIT_NOSE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PAWS_LITTLE",
+    "copy-from": "PAWS_LITTLE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "NUMB",
+    "copy-from": "NUMB",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "BOOMING_VOICE",
+    "copy-from": "BOOMING_VOICE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "FELINE_FLEXIBILITY",
+    "copy-from": "FELINE_FLEXIBILITY",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "HATES_WATER",
+    "copy-from": "HATES_WATER",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "TOUGH_MEDICAL",
+    "copy-from": "TOUGH_MEDICAL",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "TOUGH2_MEDICAL",
+    "copy-from": "TOUGH2_MEDICAL",
+    "starting_trait": true
+  }
+]
