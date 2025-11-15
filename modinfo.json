@@ -6,6 +6,6 @@
     "authors": [ "Leon713" ],
     "description": "Makes most ingame mutations available in the character creation screen.",
     "category": "rebalance",
-    "dependencies": [ "dda" ]
+    "dependencies": [ "bn" ]
   }
 ]

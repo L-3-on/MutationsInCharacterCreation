@@ -163,12 +163,6 @@
   },
   {
     "type": "mutation",
-    "id": "TOUGH_FEET",
-    "copy-from": "TOUGH_FEET",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
     "id": "BOVINE_BULK",
     "copy-from": "BOVINE_BULK",
     "starting_trait": true
@@ -333,12 +327,6 @@
     "type": "mutation",
     "id": "STIMBOOST",
     "copy-from": "STIMBOOST",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "STYLISH",
-    "copy-from": "STYLISH",
     "starting_trait": true
   },
   {
@@ -1683,18 +1671,6 @@
     "type": "mutation",
     "id": "PAINREC1",
     "copy-from": "PAINREC1",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "PAINREC2",
-    "copy-from": "PAINREC2",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "PAINREC3",
-    "copy-from": "PAINREC3",
     "starting_trait": true
   },
   {
