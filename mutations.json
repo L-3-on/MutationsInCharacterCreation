@@ -1567,12 +1567,6 @@
   },
   {
     "type": "mutation",
-    "id": "M_IMMUNE",
-    "copy-from": "M_IMMUNE",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
     "id": "PARAIMMUNE",
     "copy-from": "PARAIMMUNE",
     "starting_trait": true
