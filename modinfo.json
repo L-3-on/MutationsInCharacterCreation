@@ -1,10 +1,11 @@
 [
   {
     "type": "MOD_INFO",
-    "ident": "MutationsInCharacterCreation",
+    "id": "MutationsInCharacterCreation",
     "name": "Mutations in Character Creation",
     "authors": [ "Leon713" ],
     "description": "Makes most ingame mutations available in the character creation screen.",
+    "version": "1.0",
     "category": "rebalance",
     "dependencies": [ "bn" ]
   }
