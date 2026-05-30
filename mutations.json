@@ -1,6 +1,114 @@
 [
   {
     "type": "mutation",
+    "id": "CHANGING",
+    "copy-from": "CHANGING",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "HUMAN_ADDONS",
+    "copy-from": "HUMAN_ADDONS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "HUMAN_ARMS",
+    "copy-from": "HUMAN_ARMS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "HUMAN_BLOOD",
+    "copy-from": "HUMAN_BLOOD",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "HUMAN_EARS",
+    "copy-from": "HUMAN_EARS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "HUMAN_EYES",
+    "copy-from": "HUMAN_EYES",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "HUMAN_HANDS",
+    "copy-from": "HUMAN_HANDS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "HUMAN_HEALING",
+    "copy-from": "HUMAN_HEALING",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "HUMAN_LEGS",
+    "copy-from": "HUMAN_LEGS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "HUMAN_METABOLISM",
+    "copy-from": "HUMAN_METABOLISM",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "HUMAN_MOUTH",
+    "copy-from": "HUMAN_MOUTH",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "HUMAN_VOICE",
+    "copy-from": "HUMAN_VOICE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "HUMAN_SKIN",
+    "copy-from": "HUMAN_SKIN",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "HUMAN_SLEEP",
+    "copy-from": "HUMAN_SLEEP",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "HUMAN_STATS",
+    "copy-from": "HUMAN_STATS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "HUMAN_MIND",
+    "copy-from": "HUMAN_MIND",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "HUMAN_IMMUNITY",
+    "copy-from": "HUMAN_IMMUNITY",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "HUMAN_ACCLIMATIZATION",
+    "copy-from": "HUMAN_ACCLIMATIZATION",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
     "id": "FLEET",
     "copy-from": "FLEET",
     "starting_trait": true
@@ -19,8 +127,20 @@
   },
   {
     "type": "mutation",
+    "id": "BIOLUM1_active",
+    "copy-from": "BIOLUM1_active",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
     "id": "BIOLUM2",
     "copy-from": "BIOLUM2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "BIOLUM2_active",
+    "copy-from": "BIOLUM2_active",
     "starting_trait": true
   },
   {
@@ -37,8 +157,38 @@
   },
   {
     "type": "mutation",
+    "id": "HYDE",
+    "copy-from": "HYDE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "SEASONAL_AFFECTIVE",
+    "copy-from": "SEASONAL_AFFECTIVE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
     "id": "GOODHEARING",
     "copy-from": "GOODHEARING",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "BATEARS",
+    "copy-from": "BATEARS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "ECHOLOCATION",
+    "copy-from": "ECHOLOCATION",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "LEAFNOSE",
+    "copy-from": "LEAFNOSE",
     "starting_trait": true
   },
   {
@@ -93,6 +243,12 @@
     "type": "mutation",
     "id": "PORTAL_DEPENDENT",
     "copy-from": "PORTAL_DEPENDENT",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "REALITY_GRASP",
+    "copy-from": "REALITY_GRASP",
     "starting_trait": true
   },
   {
@@ -159,6 +315,12 @@
     "type": "mutation",
     "id": "FASTREADER",
     "copy-from": "FASTREADER",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "TOUGH_FEET",
+    "copy-from": "TOUGH_FEET",
     "starting_trait": true
   },
   {
@@ -327,6 +489,12 @@
     "type": "mutation",
     "id": "STIMBOOST",
     "copy-from": "STIMBOOST",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "STYLISH",
+    "copy-from": "STYLISH",
     "starting_trait": true
   },
   {
@@ -901,6 +1069,12 @@
   },
   {
     "type": "mutation",
+    "id": "MESOPIC",
+    "copy-from": "MESOPIC",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
     "id": "BIRD_EYE",
     "copy-from": "BIRD_EYE",
     "starting_trait": true
@@ -955,12 +1129,6 @@
   },
   {
     "type": "mutation",
-    "id": "FANGS",
-    "copy-from": "FANGS",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
     "id": "INCISORS",
     "copy-from": "INCISORS",
     "starting_trait": true
@@ -987,6 +1155,24 @@
     "type": "mutation",
     "id": "GILLS_CEPH",
     "copy-from": "GILLS_CEPH",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "M_SKIN",
+    "copy-from": "M_SKIN",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "M_SKIN2",
+    "copy-from": "M_SKIN2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "M_SKIN3",
+    "copy-from": "M_SKIN3",
     "starting_trait": true
   },
   {
@@ -1051,8 +1237,20 @@
   },
   {
     "type": "mutation",
+    "id": "URSINE_FUR_SUMMER",
+    "copy-from": "URSINE_FUR_SUMMER",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
     "id": "LUPINE_FUR",
     "copy-from": "LUPINE_FUR",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "LUPINE_FUR_SUMMER",
+    "copy-from": "LUPINE_FUR_SUMMER",
     "starting_trait": true
   },
   {
@@ -1093,8 +1291,20 @@
   },
   {
     "type": "mutation",
+    "id": "CHITIN_MOLTED",
+    "copy-from": "CHITIN_MOLTED",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
     "id": "CHITIN2",
     "copy-from": "CHITIN2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "CHITIN2_MOLTED",
+    "copy-from": "CHITIN2_MOLTED",
     "starting_trait": true
   },
   {
@@ -1105,8 +1315,20 @@
   },
   {
     "type": "mutation",
+    "id": "CHITIN3_MOLTED",
+    "copy-from": "CHITIN3_MOLTED",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
     "id": "CRUSTACEAN_CARAPACE",
     "copy-from": "CRUSTACEAN_CARAPACE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "CRUSTACEAN_CARAPACE_MOLTED",
+    "copy-from": "CRUSTACEAN_CARAPACE_MOLTED",
     "starting_trait": true
   },
   {
@@ -1177,6 +1399,18 @@
   },
   {
     "type": "mutation",
+    "id": "BARK2_b",
+    "copy-from": "BARK2_b",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "BARK2_c",
+    "copy-from": "BARK2_c",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
     "id": "THORNS",
     "copy-from": "THORNS",
     "starting_trait": true
@@ -1219,6 +1453,36 @@
   },
   {
     "type": "mutation",
+    "id": "M_SPORES",
+    "copy-from": "M_SPORES",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "M_FERTILE",
+    "copy-from": "M_FERTILE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "M_BLOSSOMS",
+    "copy-from": "M_BLOSSOMS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "M_BLOOM",
+    "copy-from": "M_BLOOM",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "M_PROVENANCE",
+    "copy-from": "M_PROVENANCE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
     "id": "NAILS",
     "copy-from": "NAILS",
     "starting_trait": true
@@ -1245,6 +1509,12 @@
     "type": "mutation",
     "id": "CLAWS_RETRACT",
     "copy-from": "CLAWS_RETRACT",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "CLAWS_RETRACT_active",
+    "copy-from": "CLAWS_RETRACT_active",
     "starting_trait": true
   },
   {
@@ -1297,6 +1567,30 @@
   },
   {
     "type": "mutation",
+    "id": "MARLOSS",
+    "copy-from": "MARLOSS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "MARLOSS_BLUE",
+    "copy-from": "MARLOSS_BLUE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "MARLOSS_YELLOW",
+    "copy-from": "MARLOSS_YELLOW",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "MARLOSS_AVOID",
+    "copy-from": "MARLOSS_AVOID",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
     "id": "MUTAGEN_AVOID",
     "copy-from": "MUTAGEN_AVOID",
     "starting_trait": true
@@ -1335,6 +1629,18 @@
     "type": "mutation",
     "id": "INFIMMUNE",
     "copy-from": "INFIMMUNE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "SEASONAL_ALLERGIES",
+    "copy-from": "SEASONAL_ALLERGIES",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "M_IMMUNE",
+    "copy-from": "M_IMMUNE",
     "starting_trait": true
   },
   {
@@ -1417,6 +1723,18 @@
   },
   {
     "type": "mutation",
+    "id": "LEGS_BAT",
+    "copy-from": "LEGS_BAT",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "HOOKED_TOES",
+    "copy-from": "HOOKED_TOES",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
     "id": "ANIMAL_FEET",
     "copy-from": "ANIMAL_FEET",
     "starting_trait": true
@@ -1495,6 +1813,12 @@
   },
   {
     "type": "mutation",
+    "id": "M_DEPENDENT",
+    "copy-from": "M_DEPENDENT",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
     "id": "RUMINANT",
     "copy-from": "RUMINANT",
     "starting_trait": true
@@ -1539,6 +1863,12 @@
     "type": "mutation",
     "id": "EATHEALTH",
     "copy-from": "EATHEALTH",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "EATHEALTH_active",
+    "copy-from": "EATHEALTH_active",
     "starting_trait": true
   },
   {
@@ -1674,6 +2004,36 @@
     "starting_trait": true
   },
   {
+    "type": "effect_on_condition",
+    "id": "PAINREC1_EOC",
+    "copy-from": "PAINREC1_EOC",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PAINREC2",
+    "copy-from": "PAINREC2",
+    "starting_trait": true
+  },
+  {
+    "type": "effect_on_condition",
+    "id": "PAINREC2_EOC",
+    "copy-from": "PAINREC2_EOC",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PAINREC3",
+    "copy-from": "PAINREC3",
+    "starting_trait": true
+  },
+  {
+    "type": "effect_on_condition",
+    "id": "PAINREC3_EOC",
+    "copy-from": "PAINREC3_EOC",
+    "starting_trait": true
+  },
+  {
     "type": "mutation",
     "id": "MASOCHIST_MED",
     "copy-from": "MASOCHIST_MED",
@@ -1747,6 +2107,12 @@
   },
   {
     "type": "mutation",
+    "id": "M_DEFENDER",
+    "copy-from": "M_DEFENDER",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
     "id": "WINGS_BIRD",
     "copy-from": "WINGS_BIRD",
     "starting_trait": true
@@ -1755,6 +2121,12 @@
     "type": "mutation",
     "id": "WINGS_INSECT",
     "copy-from": "WINGS_INSECT",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "WINGS_INSECT_active",
+    "copy-from": "WINGS_INSECT_active",
     "starting_trait": true
   },
   {
@@ -2061,6 +2433,18 @@
     "type": "mutation",
     "id": "SLIMEMIND",
     "copy-from": "SLIMEMIND",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "VERY_SHORT",
+    "copy-from": "VERY_SHORT",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "VERY_TALL",
+    "copy-from": "VERY_TALL",
     "starting_trait": true
   },
   {
@@ -2533,6 +2917,18 @@
   },
   {
     "type": "mutation",
+    "id": "HEMOVORE",
+    "copy-from": "HEMOVORE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "BLOODFEEDER",
+    "copy-from": "BLOODFEEDER",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
     "id": "PONDEROUS1",
     "copy-from": "PONDEROUS1",
     "starting_trait": true
@@ -2767,6 +3163,168 @@
   },
   {
     "type": "mutation",
+    "id": "THRESH_LIZARD",
+    "copy-from": "THRESH_LIZARD",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "THRESH_GASTROPOD",
+    "copy-from": "THRESH_GASTROPOD",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "THRESH_BIRD",
+    "copy-from": "THRESH_BIRD",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "THRESH_FISH",
+    "copy-from": "THRESH_FISH",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "THRESH_BEAST",
+    "copy-from": "THRESH_BEAST",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "THRESH_FELINE",
+    "copy-from": "THRESH_FELINE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "THRESH_LUPINE",
+    "copy-from": "THRESH_LUPINE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "THRESH_URSINE",
+    "copy-from": "THRESH_URSINE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "THRESH_CATTLE",
+    "copy-from": "THRESH_CATTLE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "THRESH_INSECT",
+    "copy-from": "THRESH_INSECT",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "THRESH_PLANT",
+    "copy-from": "THRESH_PLANT",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "THRESH_SLIME",
+    "copy-from": "THRESH_SLIME",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "THRESH_TROGLOBITE",
+    "copy-from": "THRESH_TROGLOBITE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "THRESH_CEPHALOPOD",
+    "copy-from": "THRESH_CEPHALOPOD",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "THRESH_SPIDER",
+    "copy-from": "THRESH_SPIDER",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "THRESH_RAT",
+    "copy-from": "THRESH_RAT",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "THRESH_MEDICAL",
+    "copy-from": "THRESH_MEDICAL",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "THRESH_ALPHA",
+    "copy-from": "THRESH_ALPHA",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "THRESH_ELFA",
+    "copy-from": "THRESH_ELFA",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "THRESH_CHIMERA",
+    "copy-from": "THRESH_CHIMERA",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "THRESH_RAPTOR",
+    "copy-from": "THRESH_RAPTOR",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "THRESH_BATRACHIAN",
+    "copy-from": "THRESH_BATRACHIAN",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "THRESH_MOUSE",
+    "copy-from": "THRESH_MOUSE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "THRESH_MARLOSS",
+    "copy-from": "THRESH_MARLOSS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "THRESH_MYCUS",
+    "copy-from": "THRESH_MYCUS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "THRESH_CRUSTACEAN",
+    "copy-from": "THRESH_CRUSTACEAN",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "THRESH_CHIROPTERAN",
+    "copy-from": "THRESH_CHIROPTERAN",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
     "id": "ACIDPROOF",
     "copy-from": "ACIDPROOF",
     "starting_trait": true
@@ -2899,6 +3457,12 @@
   },
   {
     "type": "mutation",
+    "id": "PROF_KICKBOXER",
+    "copy-from": "PROF_KICKBOXER",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
     "id": "PROF_AUTODOC",
     "copy-from": "PROF_AUTODOC",
     "starting_trait": true
@@ -2911,8 +3475,248 @@
   },
   {
     "type": "mutation",
+    "id": "NPC_BRANDY",
+    "copy-from": "NPC_BRANDY",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "NPC_RUM",
+    "copy-from": "NPC_RUM",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "NPC_WHISKEY",
+    "copy-from": "NPC_WHISKEY",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "NPC_MISSION_LEV_1",
+    "copy-from": "NPC_MISSION_LEV_1",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "NPC_CONSTRUCTION_LEV_1",
+    "copy-from": "NPC_CONSTRUCTION_LEV_1",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "NPC_CONSTRUCTION_LEV_2",
+    "copy-from": "NPC_CONSTRUCTION_LEV_2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "NPC_STARTING_NPC",
+    "copy-from": "NPC_STARTING_NPC",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "NPC_STATIC_NPC",
+    "copy-from": "NPC_STATIC_NPC",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "HALLUCINATION",
+    "copy-from": "HALLUCINATION",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "IGNORE_SOUND",
+    "copy-from": "IGNORE_SOUND",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "NO_BASH",
+    "copy-from": "NO_BASH",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "RETURN_TO_START_POS",
+    "copy-from": "RETURN_TO_START_POS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "GETS_RANDOM_MISSION",
+    "copy-from": "GETS_RANDOM_MISSION",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "GETS_RANDOM_MISSION_NOMOVE",
+    "copy-from": "GETS_RANDOM_MISSION_NOMOVE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "DEBUG_TAIL",
+    "copy-from": "DEBUG_TAIL",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "DEBUG_ONLY_HEAD",
+    "copy-from": "DEBUG_ONLY_HEAD",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "DEBUG_BIG_HEAD",
+    "copy-from": "DEBUG_BIG_HEAD",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "DEBUG_NIGHTVISION",
+    "copy-from": "DEBUG_NIGHTVISION",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "DEBUG_CLAIRVOYANCE_PLUS",
+    "copy-from": "DEBUG_CLAIRVOYANCE_PLUS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "DEBUG_CLAIRVOYANCE",
+    "copy-from": "DEBUG_CLAIRVOYANCE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "DEBUG_CLOAK",
+    "copy-from": "DEBUG_CLOAK",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "DEBUG_LS",
+    "copy-from": "DEBUG_LS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "DEBUG_CARDIO",
+    "copy-from": "DEBUG_CARDIO",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "DEBUG_HP",
+    "copy-from": "DEBUG_HP",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "DEBUG_HP_REGEN",
+    "copy-from": "DEBUG_HP_REGEN",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "DEBUG_NOSCENT",
+    "copy-from": "DEBUG_NOSCENT",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "DEBUG_SILENT",
+    "copy-from": "DEBUG_SILENT",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "DEBUG_MANA",
+    "copy-from": "DEBUG_MANA",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "DEBUG_NOTEMP",
+    "copy-from": "DEBUG_NOTEMP",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "DEBUG_NODMG",
+    "copy-from": "DEBUG_NODMG",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "DEBUG_LIGHT",
+    "copy-from": "DEBUG_LIGHT",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "DEBUG_HS",
+    "copy-from": "DEBUG_HS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "DEBUG_CNF",
+    "copy-from": "DEBUG_CNF",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "DEBUG_CS",
+    "copy-from": "DEBUG_CS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "DEBUG_MIND_CONTROL",
+    "copy-from": "DEBUG_MIND_CONTROL",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "DEBUG_BIONICS",
+    "copy-from": "DEBUG_BIONICS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "DEBUG_SPEED",
+    "copy-from": "DEBUG_SPEED",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "DEBUG_PREVENT_DEATH",
+    "copy-from": "DEBUG_PREVENT_DEATH",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
     "id": "SQUEAMISH",
     "copy-from": "SQUEAMISH",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "BEE",
+    "copy-from": "BEE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "MYCUS_FRIEND",
+    "copy-from": "MYCUS_FRIEND",
     "starting_trait": true
   },
   {
@@ -3031,6 +3835,12 @@
   },
   {
     "type": "mutation",
+    "id": "CARNIVORE_FAKE",
+    "copy-from": "CARNIVORE_FAKE",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
     "id": "TOUGH_MEDICAL",
     "copy-from": "TOUGH_MEDICAL",
     "starting_trait": true
@@ -3039,6 +3849,12 @@
     "type": "mutation",
     "id": "TOUGH2_MEDICAL",
     "copy-from": "TOUGH2_MEDICAL",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "TAINTED_SHADOW",
+    "copy-from": "TAINTED_SHADOW",
     "starting_trait": true
   },
   {
@@ -3087,6 +3903,84 @@
     "type": "mutation",
     "id": "CEPH_MIND",
     "copy-from": "CEPH_MIND",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "RESISTCHILL_RESISTWARM",
+    "copy-from": "RESISTCHILL_RESISTWARM",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "VANITY",
+    "copy-from": "VANITY",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "PICKYEATER",
+    "copy-from": "PICKYEATER",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "SOCIAL1",
+    "copy-from": "SOCIAL1",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "SOCIAL2",
+    "copy-from": "SOCIAL2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "ASOCIAL1",
+    "copy-from": "ASOCIAL1",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "ASOCIAL2",
+    "copy-from": "ASOCIAL2",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "ALPHA_COMPLEX",
+    "copy-from": "ALPHA_COMPLEX",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "NOT_GLASS",
+    "copy-from": "NOT_GLASS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "NO_CBM_INSTALLATION",
+    "copy-from": "NO_CBM_INSTALLATION",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "BLOODLETTER",
+    "copy-from": "BLOODLETTER",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "FANGS",
+    "copy-from": "FANGS",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
+    "id": "FANGS_VAMPIRE",
+    "copy-from": "FANGS_VAMPIRE",
     "starting_trait": true
   }
 ]
