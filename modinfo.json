@@ -2,11 +2,13 @@
   {
     "type": "MOD_INFO",
     "id": "MutationsInCharacterCreation",
-    "name": "Mutations in Character Creation",
+    "name": "Mutations & Bionics in Character Creation",
     "authors": [ "Leon713" ],
     "description": "Makes most ingame mutations available in the character creation screen.",
+    "license": "CC0 1.0 Universal",
     "version": "1.0",
     "category": "rebalance",
-    "dependencies": [ "bn" ]
+    "dependencies": [ "bn" ],
+    "path": ""
   }
 ]

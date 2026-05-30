@@ -1159,24 +1159,6 @@
   },
   {
     "type": "mutation",
-    "id": "M_SKIN",
-    "copy-from": "M_SKIN",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "M_SKIN2",
-    "copy-from": "M_SKIN2",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "M_SKIN3",
-    "copy-from": "M_SKIN3",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
     "id": "SPARSE_SCALES",
     "copy-from": "SPARSE_SCALES",
     "starting_trait": true
@@ -1453,36 +1435,6 @@
   },
   {
     "type": "mutation",
-    "id": "M_SPORES",
-    "copy-from": "M_SPORES",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "M_FERTILE",
-    "copy-from": "M_FERTILE",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "M_BLOSSOMS",
-    "copy-from": "M_BLOSSOMS",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "M_BLOOM",
-    "copy-from": "M_BLOOM",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "M_PROVENANCE",
-    "copy-from": "M_PROVENANCE",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
     "id": "NAILS",
     "copy-from": "NAILS",
     "starting_trait": true
@@ -1563,30 +1515,6 @@
     "type": "mutation",
     "id": "RADIOPHILE",
     "copy-from": "RADIOPHILE",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "MARLOSS",
-    "copy-from": "MARLOSS",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "MARLOSS_BLUE",
-    "copy-from": "MARLOSS_BLUE",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "MARLOSS_YELLOW",
-    "copy-from": "MARLOSS_YELLOW",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "MARLOSS_AVOID",
-    "copy-from": "MARLOSS_AVOID",
     "starting_trait": true
   },
   {
@@ -1813,12 +1741,6 @@
   },
   {
     "type": "mutation",
-    "id": "M_DEPENDENT",
-    "copy-from": "M_DEPENDENT",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
     "id": "RUMINANT",
     "copy-from": "RUMINANT",
     "starting_trait": true
@@ -2004,33 +1926,15 @@
     "starting_trait": true
   },
   {
-    "type": "effect_on_condition",
-    "id": "PAINREC1_EOC",
-    "copy-from": "PAINREC1_EOC",
-    "starting_trait": true
-  },
-  {
     "type": "mutation",
     "id": "PAINREC2",
     "copy-from": "PAINREC2",
     "starting_trait": true
   },
   {
-    "type": "effect_on_condition",
-    "id": "PAINREC2_EOC",
-    "copy-from": "PAINREC2_EOC",
-    "starting_trait": true
-  },
-  {
     "type": "mutation",
     "id": "PAINREC3",
     "copy-from": "PAINREC3",
-    "starting_trait": true
-  },
-  {
-    "type": "effect_on_condition",
-    "id": "PAINREC3_EOC",
-    "copy-from": "PAINREC3_EOC",
     "starting_trait": true
   },
   {
@@ -2103,12 +2007,6 @@
     "type": "mutation",
     "id": "PACK_HUNTER",
     "copy-from": "PACK_HUNTER",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "M_DEFENDER",
-    "copy-from": "M_DEFENDER",
     "starting_trait": true
   },
   {
@@ -3163,168 +3061,6 @@
   },
   {
     "type": "mutation",
-    "id": "THRESH_LIZARD",
-    "copy-from": "THRESH_LIZARD",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "THRESH_GASTROPOD",
-    "copy-from": "THRESH_GASTROPOD",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "THRESH_BIRD",
-    "copy-from": "THRESH_BIRD",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "THRESH_FISH",
-    "copy-from": "THRESH_FISH",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "THRESH_BEAST",
-    "copy-from": "THRESH_BEAST",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "THRESH_FELINE",
-    "copy-from": "THRESH_FELINE",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "THRESH_LUPINE",
-    "copy-from": "THRESH_LUPINE",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "THRESH_URSINE",
-    "copy-from": "THRESH_URSINE",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "THRESH_CATTLE",
-    "copy-from": "THRESH_CATTLE",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "THRESH_INSECT",
-    "copy-from": "THRESH_INSECT",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "THRESH_PLANT",
-    "copy-from": "THRESH_PLANT",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "THRESH_SLIME",
-    "copy-from": "THRESH_SLIME",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "THRESH_TROGLOBITE",
-    "copy-from": "THRESH_TROGLOBITE",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "THRESH_CEPHALOPOD",
-    "copy-from": "THRESH_CEPHALOPOD",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "THRESH_SPIDER",
-    "copy-from": "THRESH_SPIDER",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "THRESH_RAT",
-    "copy-from": "THRESH_RAT",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "THRESH_MEDICAL",
-    "copy-from": "THRESH_MEDICAL",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "THRESH_ALPHA",
-    "copy-from": "THRESH_ALPHA",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "THRESH_ELFA",
-    "copy-from": "THRESH_ELFA",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "THRESH_CHIMERA",
-    "copy-from": "THRESH_CHIMERA",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "THRESH_RAPTOR",
-    "copy-from": "THRESH_RAPTOR",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "THRESH_BATRACHIAN",
-    "copy-from": "THRESH_BATRACHIAN",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "THRESH_MOUSE",
-    "copy-from": "THRESH_MOUSE",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "THRESH_MARLOSS",
-    "copy-from": "THRESH_MARLOSS",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "THRESH_MYCUS",
-    "copy-from": "THRESH_MYCUS",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "THRESH_CRUSTACEAN",
-    "copy-from": "THRESH_CRUSTACEAN",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "THRESH_CHIROPTERAN",
-    "copy-from": "THRESH_CHIROPTERAN",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
     "id": "ACIDPROOF",
     "copy-from": "ACIDPROOF",
     "starting_trait": true
@@ -3475,60 +3211,6 @@
   },
   {
     "type": "mutation",
-    "id": "NPC_BRANDY",
-    "copy-from": "NPC_BRANDY",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "NPC_RUM",
-    "copy-from": "NPC_RUM",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "NPC_WHISKEY",
-    "copy-from": "NPC_WHISKEY",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "NPC_MISSION_LEV_1",
-    "copy-from": "NPC_MISSION_LEV_1",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "NPC_CONSTRUCTION_LEV_1",
-    "copy-from": "NPC_CONSTRUCTION_LEV_1",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "NPC_CONSTRUCTION_LEV_2",
-    "copy-from": "NPC_CONSTRUCTION_LEV_2",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "NPC_STARTING_NPC",
-    "copy-from": "NPC_STARTING_NPC",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "NPC_STATIC_NPC",
-    "copy-from": "NPC_STATIC_NPC",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "HALLUCINATION",
-    "copy-from": "HALLUCINATION",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
     "id": "IGNORE_SOUND",
     "copy-from": "IGNORE_SOUND",
     "starting_trait": true
@@ -3541,188 +3223,8 @@
   },
   {
     "type": "mutation",
-    "id": "RETURN_TO_START_POS",
-    "copy-from": "RETURN_TO_START_POS",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "GETS_RANDOM_MISSION",
-    "copy-from": "GETS_RANDOM_MISSION",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "GETS_RANDOM_MISSION_NOMOVE",
-    "copy-from": "GETS_RANDOM_MISSION_NOMOVE",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "DEBUG_TAIL",
-    "copy-from": "DEBUG_TAIL",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "DEBUG_ONLY_HEAD",
-    "copy-from": "DEBUG_ONLY_HEAD",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "DEBUG_BIG_HEAD",
-    "copy-from": "DEBUG_BIG_HEAD",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "DEBUG_NIGHTVISION",
-    "copy-from": "DEBUG_NIGHTVISION",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "DEBUG_CLAIRVOYANCE_PLUS",
-    "copy-from": "DEBUG_CLAIRVOYANCE_PLUS",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "DEBUG_CLAIRVOYANCE",
-    "copy-from": "DEBUG_CLAIRVOYANCE",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "DEBUG_CLOAK",
-    "copy-from": "DEBUG_CLOAK",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "DEBUG_LS",
-    "copy-from": "DEBUG_LS",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "DEBUG_CARDIO",
-    "copy-from": "DEBUG_CARDIO",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "DEBUG_HP",
-    "copy-from": "DEBUG_HP",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "DEBUG_HP_REGEN",
-    "copy-from": "DEBUG_HP_REGEN",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "DEBUG_NOSCENT",
-    "copy-from": "DEBUG_NOSCENT",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "DEBUG_SILENT",
-    "copy-from": "DEBUG_SILENT",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "DEBUG_MANA",
-    "copy-from": "DEBUG_MANA",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "DEBUG_NOTEMP",
-    "copy-from": "DEBUG_NOTEMP",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "DEBUG_NODMG",
-    "copy-from": "DEBUG_NODMG",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "DEBUG_LIGHT",
-    "copy-from": "DEBUG_LIGHT",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "DEBUG_HS",
-    "copy-from": "DEBUG_HS",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "DEBUG_CNF",
-    "copy-from": "DEBUG_CNF",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "DEBUG_CS",
-    "copy-from": "DEBUG_CS",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "DEBUG_MIND_CONTROL",
-    "copy-from": "DEBUG_MIND_CONTROL",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "DEBUG_BIONICS",
-    "copy-from": "DEBUG_BIONICS",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "DEBUG_SPEED",
-    "copy-from": "DEBUG_SPEED",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "DEBUG_PREVENT_DEATH",
-    "copy-from": "DEBUG_PREVENT_DEATH",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
     "id": "SQUEAMISH",
     "copy-from": "SQUEAMISH",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "BEE",
-    "copy-from": "BEE",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "MYCUS_FRIEND",
-    "copy-from": "MYCUS_FRIEND",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "MUTE",
-    "copy-from": "MUTE",
     "starting_trait": true
   },
   {
@@ -3759,12 +3261,6 @@
     "type": "mutation",
     "id": "FAST_REFLEXES",
     "copy-from": "FAST_REFLEXES",
-    "starting_trait": true
-  },
-  {
-    "type": "mutation",
-    "id": "THRESH_RABBIT",
-    "copy-from": "THRESH_RABBIT",
     "starting_trait": true
   },
   {
